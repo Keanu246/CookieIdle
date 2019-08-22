@@ -263,3 +263,7 @@ setInterval(renew_cookies, 500);
 var upgrades = [
   {active:false,cost:1000,costMulti:4,level:0,id:1}
 ]
+
+function upgrades(){
+
+}
