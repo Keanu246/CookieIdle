@@ -261,7 +261,7 @@ cookie_god = new Building("Cookie God", 450000000000, 250000000000000);
 setInterval(renew_cookies, 500);
 
 var upgrades = [
-  {active:false,cost:1000,costMulti:4,level:0,id:1}
+
 ]
 
 function upgrades(){
